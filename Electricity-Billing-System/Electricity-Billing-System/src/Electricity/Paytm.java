@@ -20,7 +20,7 @@ public class Paytm extends JFrame implements ActionListener{
         j.add(b1);
 
         try {
-            j.setPage("https://paytm.com/electricity-bill-payment");
+            j.setPage(); //this page of payment method you were going to use
         }catch (Exception e) {
             j.setContentType("text/html");
             j.setText("<html>Could not load</html>");
