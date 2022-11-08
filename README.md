@@ -7,3 +7,6 @@ Electricity Billing System is a Software-based application.
 This project aims at serving the department of electricity by computerizing the billing system
 It mainly focuses on the calculation of units consumed during the specified time and the money to be charge bu the electricty offices.
 This computerized system will mak the overall billing system east, accessible, comfortable, and effeective for consurems
+
+
+Please Help me on how to add payment method using other party. I don't know on how to connect thru payment online.
